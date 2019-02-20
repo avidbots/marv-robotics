@@ -1,3 +1,5 @@
+**/*.pyc
+**/*.pycd
 *.py[co]
 *.sw[op]
 .*.sw[op]
@@ -13,3 +15,6 @@ __pycache__/
 /code/*/build/
 /code/*/dist/
 /venv/
+/sites/example/db
+/sites/example/store
+/sites/example/sessionkey
